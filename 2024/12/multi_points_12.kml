@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="sharedStyle">
+      <LineStyle>
+        <color>7F00FF00</color> <!-- Bright green color -->
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7F00FF00</color>
+      </PolyStyle>
+      <IconStyle>
+        <Icon>
+          <href>marker_icon.svg</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>2.3414, 48.85717,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 2</name>
+      <Point>
+        <coordinates>2.29831, 148.87117,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 3</name>
+      <Point>
+        <coordinates>2.31393, 48.84633,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 4</name>
+      <Point>
+        <coordinates>2.32578, 48.87874,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 5</name>
+      <Point>
+        <coordinates>2.36457, 48.84983,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 6</name>
+      <Point>
+        <coordinates>2.36423, 48.86940,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 7</name>
+      <Point>
+        <coordinates>2.29213, 48.85186,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 8</name>
+      <Point>
+        <coordinates>2.37676, 48.85322,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 9</name>
+      <Point>
+        <coordinates>2.29814, 48.88280,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 10</name>
+      <Point>
+        <coordinates>2.32750, 48.83266,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 11</name>
+      <Point>
+        <coordinates>2.26690, 48.85988,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 12</name>
+      <Point>
+        <coordinates>2.35359, 48.86620,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
