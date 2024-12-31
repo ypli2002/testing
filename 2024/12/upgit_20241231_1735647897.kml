@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="sharedStyle">
+      <LineStyle>
+        <color>7F00FF00</color> <!-- Bright green color -->
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7F00FF00</color>
+      </PolyStyle>
+      <IconStyle>
+        <Icon>
+          <href>graphics/pin.svg</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>2.3414, 48.85717,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 2</name>
+      <Point>
+        <coordinates>2.29831, 148.87117,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 3</name>
+      <Point>
+        <coordinates>2.31393, 48.84633,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 4</name>
+      <Point>
+        <coordinates>2.32578, 48.87874,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#sharedStyle</styleUrl>
+      <name>Point 5</name>
+      <Point>
+        <coordinates>2.36457, 48.84983,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
