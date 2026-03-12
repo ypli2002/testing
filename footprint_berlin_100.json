@@ -1,0 +1,3823 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        13.491449338000054,
+        52.65224175400004,
+        13.491918490000046,
+        52.65238141900005
+      ],
+      "id": 98011445,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.491684353087729,
+          52.65231149568525
+        ],
+        "places": [
+          {
+            "placeId": "276b4e40-a364f930b007423548a82d455e7e0cf4",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 621812373,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.491449338000054,
+              52.65224175400004
+            ],
+            [
+              13.491918490000046,
+              52.65224215200004
+            ],
+            [
+              13.491917215000058,
+              52.65238141900005
+            ],
+            [
+              13.491452450000054,
+              52.65238109400006
+            ],
+            [
+              13.491449338000054,
+              52.65224175400004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.504323451000062,
+        52.64890654100009,
+        13.504521913000078,
+        52.64902981100005
+      ],
+      "id": 98106827,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.504423399028681,
+          52.6489680823048
+        ],
+        "places": [
+          {
+            "placeId": "276u33ee-a9bf3a75eab04f72b2fc2913181380a5",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169802108,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.50442186400005,
+              52.64890654100009
+            ],
+            [
+              13.504521913000078,
+              52.64896859000003
+            ],
+            [
+              13.504427778000093,
+              52.64902981100005
+            ],
+            [
+              13.504323451000062,
+              52.64896722900004
+            ],
+            [
+              13.50442186400005,
+              52.64890654100009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.507118420000038,
+        52.647312034000045,
+        13.507352855000079,
+        52.64745353800004
+      ],
+      "id": 98114502,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.507235650034616,
+          52.6473827769752
+        ],
+        "places": [
+          {
+            "placeId": "276u33ee-ab1626b1df9e4facbdcf5fc98a6e0878",
+            "confidenceScore": 1
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169488285,
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.507253726000044,
+              52.647312034000045
+            ],
+            [
+              13.507352855000079,
+              52.64737645200006
+            ],
+            [
+              13.507217641000066,
+              52.64745353800004
+            ],
+            [
+              13.507118420000038,
+              52.64738906000009
+            ],
+            [
+              13.507253726000044,
+              52.647312034000045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.492339963000063,
+        52.651100491000065,
+        13.492495289000088,
+        52.65151947500005
+      ],
+      "id": 99061513,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.492416519154816,
+          52.65131222524402
+        ],
+        "places": [
+          {
+            "placeId": "276570eb-068313eeb4fc98305de3bc736a306b78",
+            "confidenceScore": 4
+          },
+          {
+            "placeId": "276570eb-17a587f2d7d5f91731e758c4b69a7edc",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 621812376,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.492342186000087,
+              52.651100491000065
+            ],
+            [
+              13.492488715000093,
+              52.651102956000045
+            ],
+            [
+              13.492495289000088,
+              52.65151947500005
+            ],
+            [
+              13.492339963000063,
+              52.65151787500008
+            ],
+            [
+              13.492342186000087,
+              52.651100491000065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50763,
+          52.64749
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "114"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Viereckweg"
+          }
+        ]
+      },
+      "id": 169488285
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50446,
+          52.64896
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "89"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Hörstenweg"
+          }
+        ]
+      },
+      "id": 169802108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49186,
+          52.65232
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "172D"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Hobrechtsfelder Chaussee"
+          }
+        ]
+      },
+      "id": 621812373
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49243,
+          52.65141
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "174H"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Hobrechtsfelder Chaussee"
+          }
+        ]
+      },
+      "id": 621812376
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49243,
+          52.65141
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Tulix"
+          }
+        ]
+      },
+      "id": "276570eb-068313eeb4fc98305de3bc736a306b78"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49243,
+          52.65141
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Tulix"
+          }
+        ]
+      },
+      "id": "276570eb-17a587f2d7d5f91731e758c4b69a7edc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49186,
+          52.65232
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Am Sandhaus"
+          }
+        ]
+      },
+      "id": "276b4e40-a364f930b007423548a82d455e7e0cf4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50445732,
+          52.64897465
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Dora Gerloff"
+          },
+          {
+            "languageCode": "de",
+            "name": "Gerloff/Gerloff"
+          }
+        ]
+      },
+      "id": "276u33ee-a9bf3a75eab04f72b2fc2913181380a5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50763,
+          52.64749
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Friedhof Pankow XI"
+          },
+          {
+            "languageCode": "de",
+            "name": "Friedhof Pankow XII"
+          }
+        ]
+      },
+      "id": "276u33ee-ab1626b1df9e4facbdcf5fc98a6e0878"
+    },
+    {
+      "bbox": [
+        13.284546339000086,
+        52.65880247600007,
+        13.284742604000087,
+        52.658979223000074
+      ],
+      "id": 98174691,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.28464427394443,
+          52.658891186336476
+        ],
+        "places": [
+          {
+            "placeId": "276u337w-5887217e8ff7aec408dc27a957222cdb",
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.28472329100009,
+              52.65880247600007
+            ],
+            [
+              13.284742604000087,
+              52.65897287500007
+            ],
+            [
+              13.284564455000066,
+              52.658979223000074
+            ],
+            [
+              13.284546339000086,
+              52.65880984100004
+            ],
+            [
+              13.28472329100009,
+              52.65880247600007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.285265640000091,
+        52.658936458000085,
+        13.28557681600006,
+        52.65905032000006
+      ],
+      "id": 98178834,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.285421290713346,
+          52.658993383711675
+        ],
+        "places": [
+          {
+            "placeId": "276u337w-5e4f2ca1592adbbb61510d6edac2523b",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169148782,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.285568398000066,
+              52.658936458000085
+            ],
+            [
+              13.28557681600006,
+              52.659041046000084
+            ],
+            [
+              13.28527431100008,
+              52.65905032000006
+            ],
+            [
+              13.285265640000091,
+              52.658945740000036
+            ],
+            [
+              13.285568398000066,
+              52.658936458000085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.28353956300009,
+        52.65788644500009,
+        13.283857838000074,
+        52.658000353000034
+      ],
+      "id": 98182265,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.283699378370883,
+          52.6579431127331
+        ],
+        "places": [
+          {
+            "placeId": "276u337w-bfa9cf9667194a62ad0f4d600ca8a1d3",
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.283847757000045,
+              52.65788644500009
+            ],
+            [
+              13.283857838000074,
+              52.65798869000008
+            ],
+            [
+              13.28355330900007,
+              52.658000353000034
+            ],
+            [
+              13.28353956300009,
+              52.657897327000065
+            ],
+            [
+              13.283847757000045,
+              52.65788644500009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.28424136700005,
+        52.65561314600006,
+        13.284441920000065,
+        52.65579433200008
+      ],
+      "id": 98182525,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.284341795400515,
+          52.65570328787398
+        ],
+        "places": [
+          {
+            "placeId": "2768lxx5-18f35541ef4b0dc7095636db408b3c19",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169298190,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.284423673000049,
+              52.65561314600006
+            ],
+            [
+              13.284441920000065,
+              52.65578571900004
+            ],
+            [
+              13.284260798000048,
+              52.65579433200008
+            ],
+            [
+              13.28424136700005,
+              52.65562025400004
+            ],
+            [
+              13.284423673000049,
+              52.65561314600006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.284336391000068,
+        52.65687484700003,
+        13.28453530100006,
+        52.65705348800009
+      ],
+      "id": 98186832,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.284435941387061,
+          52.656964270627476
+        ],
+        "places": [
+          {
+            "placeId": "276f71d7-8e710a8c602acfbfa09e48d261098d9e",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169666369,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.284516848000065,
+              52.65687484700003
+            ],
+            [
+              13.28453530100006,
+              52.65704741800005
+            ],
+            [
+              13.284355062000088,
+              52.65705348800009
+            ],
+            [
+              13.284336391000068,
+              52.65688142200008
+            ],
+            [
+              13.284516848000065,
+              52.65687484700003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.29658437900008,
+        52.65276280000007,
+        13.296847453000055,
+        52.65286976600004
+      ],
+      "id": 98238898,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.296715266852168,
+          52.652815486323696
+        ],
+        "places": [
+          {
+            "placeId": "276962og-82939181bf163a7fa931d67db3bf7a7e",
+            "confidenceScore": 1
+          },
+          {
+            "placeId": "276u337w-5af2d5c0d8ae4491b450360f68668e2b",
+            "confidenceScore": 1
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 879415101,
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.296824530000038,
+              52.65276280000007
+            ],
+            [
+              13.296847453000055,
+              52.652839652000054
+            ],
+            [
+              13.296608382000043,
+              52.65286976600004
+            ],
+            [
+              13.29658437900008,
+              52.65278929300006
+            ],
+            [
+              13.296824530000038,
+              52.65276280000007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.285177502000067,
+        52.654669273000096,
+        13.285366179000048,
+        52.65484841400008
+      ],
+      "id": 98875052,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.285271177802153,
+          52.65475888826673
+        ],
+        "places": [
+          {
+            "placeId": "276f9025-7f57e85ca781544c867ebac9f3e23248",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169652129,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.285351145000048,
+              52.654669273000096
+            ],
+            [
+              13.285366179000048,
+              52.65484093900005
+            ],
+            [
+              13.285190010000063,
+              52.65484841400008
+            ],
+            [
+              13.285177502000067,
+              52.654676076000044
+            ],
+            [
+              13.285342679000053,
+              52.654669605000045
+            ],
+            [
+              13.285351145000048,
+              52.654669273000096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.284119306000036,
+        52.65528083700008,
+        13.284298876000037,
+        52.655521348000036
+      ],
+      "id": 98883044,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.284209047655924,
+          52.65540072564789
+        ],
+        "places": [
+          {
+            "placeId": "276q9wpy-d0a5a9424217094cf80dbd1d1a088293",
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.284274810000056,
+              52.65528083700008
+            ],
+            [
+              13.284298876000037,
+              52.65551545500005
+            ],
+            [
+              13.284143524000058,
+              52.655521348000036
+            ],
+            [
+              13.284119306000036,
+              52.655285252000056
+            ],
+            [
+              13.284274810000056,
+              52.65528083700008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.298153181000087,
+        52.65451267200006,
+        13.29827475400009,
+        52.65504359300007
+      ],
+      "id": 98914781,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.298212465140908,
+          52.654775587498506
+        ],
+        "places": [
+          {
+            "placeId": "2768lxx5-13239197d8fa0645e44c78542be9187f",
+            "confidenceScore": 5
+          },
+          {
+            "placeId": "276c17b0-1fa22212a73e4eae51ab2652b50f6a5b",
+            "confidenceScore": 5
+          },
+          {
+            "placeId": "276c17b0-7a3ca11cd06a0cff25a235c6fcfc91b4",
+            "confidenceScore": 5
+          },
+          {
+            "placeId": "276f2889-95b4180c90a59d5adb925f08683327e9",
+            "confidenceScore": 5
+          },
+          {
+            "placeId": "276u337w-bca77465696a43bfb3a23a49cfce897d",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 168264628,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.298268730000073,
+              52.654830933000085
+            ],
+            [
+              13.298264704000076,
+              52.65504359300007
+            ],
+            [
+              13.298153181000087,
+              52.65504293500005
+            ],
+            [
+              13.298157048000064,
+              52.65451267200006
+            ],
+            [
+              13.29827475400009,
+              52.65451267700007
+            ],
+            [
+              13.298270759000047,
+              52.65472372700003
+            ],
+            [
+              13.298268730000073,
+              52.654830933000085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.283793653000089,
+        52.655329522000045,
+        13.284138963000089,
+        52.65549010900009
+      ],
+      "id": 99223238,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.283966315449897,
+          52.65540983814265
+        ],
+        "places": [
+          {
+            "placeId": "276u337w-58f03084c8d84fb5895a04c8c629501a",
+            "confidenceScore": 4
+          },
+          {
+            "placeId": "276u337w-a493459bbe1f4151a2594d03bbddbfa0",
+            "confidenceScore": 5
+          },
+          {
+            "placeId": "276u337w-d01f5f252ccc406c9fc79c7645516e48",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 168932974,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.284123847000046,
+              52.655329522000045
+            ],
+            [
+              13.284138963000089,
+              52.65547688500004
+            ],
+            [
+              13.283808731000077,
+              52.65549010900009
+            ],
+            [
+              13.283793653000089,
+              52.65534283500005
+            ],
+            [
+              13.284123847000046,
+              52.655329522000045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "60"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Hubertusweg"
+          }
+        ]
+      },
+      "id": 168264628
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28399,
+          52.65544
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "46"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Invalidensiedlung"
+          }
+        ]
+      },
+      "id": 168932974
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28535,
+          52.659
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "9"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Invalidensiedlung"
+          }
+        ]
+      },
+      "id": 169148782
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28434,
+          52.65571
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "51"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Invalidensiedlung"
+          }
+        ]
+      },
+      "id": 169298190
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2853,
+          52.65481
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "1"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Staehleweg"
+          }
+        ]
+      },
+      "id": 169652129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28451,
+          52.65697
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "35"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Invalidensiedlung"
+          }
+        ]
+      },
+      "id": 169666369
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29666,
+          52.65239
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "1"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Jägerstieg"
+          }
+        ]
+      },
+      "id": 879415101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Künstlerhof Frohnau"
+          }
+        ]
+      },
+      "id": "2768lxx5-13239197d8fa0645e44c78542be9187f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28434,
+          52.65571
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Invalidensiedlung Berlin"
+          }
+        ]
+      },
+      "id": "2768lxx5-18f35541ef4b0dc7095636db408b3c19"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29666,
+          52.65239
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Hubertussee"
+          },
+          {
+            "languageCode": "de",
+            "name": "Hubertussee"
+          }
+        ]
+      },
+      "id": "276962og-82939181bf163a7fa931d67db3bf7a7e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Zuzanna Schmukalla"
+          }
+        ]
+      },
+      "id": "276c17b0-1fa22212a73e4eae51ab2652b50f6a5b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Claudia Bachmann"
+          }
+        ]
+      },
+      "id": "276c17b0-7a3ca11cd06a0cff25a235c6fcfc91b4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Rosika Jankó-Glage"
+          }
+        ]
+      },
+      "id": "276f2889-95b4180c90a59d5adb925f08683327e9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28451,
+          52.65697
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Die Puppenfee"
+          }
+        ]
+      },
+      "id": "276f71d7-8e710a8c602acfbfa09e48d261098d9e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2853,
+          52.65481
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Behinderten-Sport-Freunde Frohnau"
+          }
+        ]
+      },
+      "id": "276f9025-7f57e85ca781544c867ebac9f3e23248"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.284736,
+          52.655172
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "en",
+            "name": "Invalidensiedlung"
+          }
+        ]
+      },
+      "id": "276q9wpy-d0a5a9424217094cf80dbd1d1a088293"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2850001,
+          52.659166
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Briefkasten"
+          },
+          {
+            "languageCode": "en",
+            "name": "Briefkasten"
+          }
+        ]
+      },
+      "id": "276u337w-5887217e8ff7aec408dc27a957222cdb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28399,
+          52.65544
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Landhaus Hubertus"
+          },
+          {
+            "languageCode": "en",
+            "name": "Landhaus Hubertus"
+          },
+          {
+            "languageCode": "en",
+            "name": "Landhaus Hubertus"
+          }
+        ]
+      },
+      "id": "276u337w-58f03084c8d84fb5895a04c8c629501a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29666,
+          52.65239
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "en",
+            "name": "Richtfunkstelle Berlin-Frohnau"
+          }
+        ]
+      },
+      "id": "276u337w-5af2d5c0d8ae4491b450360f68668e2b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28535,
+          52.659
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Thomas Conrad"
+          }
+        ]
+      },
+      "id": "276u337w-5e4f2ca1592adbbb61510d6edac2523b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28399,
+          52.65544
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "André Frost Malermeister"
+          },
+          {
+            "languageCode": "de",
+            "name": "Andrè Frost Malermeister"
+          }
+        ]
+      },
+      "id": "276u337w-a493459bbe1f4151a2594d03bbddbfa0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29823,
+          52.65478
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Atelier im Künstlerhof Frohnau"
+          }
+        ]
+      },
+      "id": "276u337w-bca77465696a43bfb3a23a49cfce897d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28363,
+          52.65795
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "en",
+            "name": "Auguste-Viktoria-Glocke"
+          }
+        ]
+      },
+      "id": "276u337w-bfa9cf9667194a62ad0f4d600ca8a1d3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.283891,
+          52.655427
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Wurzelkinder"
+          },
+          {
+            "languageCode": "de",
+            "name": "Kindertagesstätte Ekt-Wurzelkinder"
+          }
+        ]
+      },
+      "id": "276u337w-d01f5f252ccc406c9fc79c7645516e48"
+    },
+    {
+      "bbox": [
+        13.088800404127749,
+        52.41327541063419,
+        13.091594956219865,
+        52.4136784162364
+      ],
+      "id": 88390818653,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.09144084684461,
+          52.413483889300245
+        ],
+        "footprintNames": [
+          {
+            "languageCode": "GER",
+            "name": "Glienicker Brücke"
+          }
+        ],
+        "places": [
+          {
+            "placeId": "276u3361-5de242638daac732dea16ae4c5a4fd93",
+            "confidenceScore": 3
+          },
+          {
+            "placeId": "276u3361-7053535364eee6dce242dad34b150d50",
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                13.091594956219865,
+                52.41358418050578
+              ],
+              [
+                13.091594944401443,
+                52.41338359110078
+              ],
+              [
+                13.091587400347382,
+                52.41335447184129
+              ],
+              [
+                13.091565510098578,
+                52.413328203306754
+              ],
+              [
+                13.09153141644205,
+                52.41330735683733
+              ],
+              [
+                13.091488456702441,
+                52.41329397302194
+              ],
+              [
+                13.09144083606143,
+                52.413289361954604
+              ],
+              [
+                13.091393215931735,
+                52.41329397499602
+              ],
+              [
+                13.09135025767601,
+                52.41330736059226
+              ],
+              [
+                13.091316166330696,
+                52.41332820847499
+              ],
+              [
+                13.0912942789942,
+                52.41335447791691
+              ],
+              [
+                13.091286738168467,
+                52.413383597489116
+              ],
+              [
+                13.091286748588582,
+                52.413584186894106
+              ],
+              [
+                13.09129429248383,
+                52.413613306171726
+              ],
+              [
+                13.091316182712657,
+                52.41363957475517
+              ],
+              [
+                13.091350276523894,
+                52.4136604212855
+              ],
+              [
+                13.091393236577739,
+                52.41367380515023
+              ],
+              [
+                13.091440857627866,
+                52.4136784162364
+              ],
+              [
+                13.091488478166662,
+                52.413673803176096
+              ],
+              [
+                13.09153143673658,
+                52.413660417530494
+              ],
+              [
+                13.091565528236535,
+                52.413639569586884
+              ],
+              [
+                13.091587415552992,
+                52.413613300096
+              ],
+              [
+                13.091594956219865,
+                52.41358418050578
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                13.090770203754413,
+                52.41353357694239
+              ],
+              [
+                13.09072632116679,
+                52.41353408868562
+              ],
+              [
+                13.090726947352195,
+                52.41355416688716
+              ],
+              [
+                13.090770829959734,
+                52.41355365514366
+              ],
+              [
+                13.090770203754413,
+                52.41353357694239
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                13.090762225386003,
+                52.413379767058395
+              ],
+              [
+                13.090718342950955,
+                52.413380278798684
+              ],
+              [
+                13.090718969130553,
+                52.413400357000775
+              ],
+              [
+                13.090762851585522,
+                52.41339984526025
+              ],
+              [
+                13.090762225386003,
+                52.413379767058395
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                13.089696413596057,
+                52.41353769791379
+              ],
+              [
+                13.089652530991913,
+                52.41353820925851
+              ],
+              [
+                13.089653156689737,
+                52.41355828746571
+              ],
+              [
+                13.089697039313798,
+                52.41355777612071
+              ],
+              [
+                13.089696413596057,
+                52.41353769791379
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                13.089688438962451,
+                52.41338388795745
+              ],
+              [
+                13.089644556510882,
+                52.41338439929919
+              ],
+              [
+                13.089645182202906,
+                52.41340447750697
+              ],
+              [
+                13.089689064674396,
+                52.413403966164935
+              ],
+              [
+                13.089688438962451,
+                52.41338388795745
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                13.08910861166206,
+                52.41357023242675
+              ],
+              [
+                13.08910861112393,
+                52.41336964302111
+              ],
+              [
+                13.089101068709782,
+                52.41334052360288
+              ],
+              [
+                13.089079179945106,
+                52.413314254608
+              ],
+              [
+                13.089045087471646,
+                52.41329340742159
+              ],
+              [
+                13.089002128498239,
+                52.41328002270284
+              ],
+              [
+                13.08895450813157,
+                52.41327541063419
+              ],
+              [
+                13.0889068877575,
+                52.413280022674286
+              ],
+              [
+                13.088863928762603,
+                52.41329340736722
+              ],
+              [
+                13.088829836255673,
+                52.41331425453314
+              ],
+              [
+                13.088807947448828,
+                52.413340523514904
+              ],
+              [
+                13.088800404987923,
+                52.41336964292861
+              ],
+              [
+                13.088800404127749,
+                52.41357023233422
+              ],
+              [
+                13.088807946383058,
+                52.41359935177055
+              ],
+              [
+                13.088829835127726,
+                52.413625620814344
+              ],
+              [
+                13.088863927755861,
+                52.4136464680616
+              ],
+              [
+                13.088906887043482,
+                52.413659852829724
+              ],
+              [
+                13.088954507819254,
+                52.413664464917254
+              ],
+              [
+                13.089002128602436,
+                52.413659852858316
+              ],
+              [
+                13.089045087911547,
+                52.41364646811594
+              ],
+              [
+                13.08907918057315,
+                52.41362562088918
+              ],
+              [
+                13.089101069359991,
+                52.4135993518585
+              ],
+              [
+                13.08910861166206,
+                52.41357023242675
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09021,
+          52.41349
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Glienicker Brücke"
+          },
+          {
+            "languageCode": "zh",
+            "name": "格利尼科尔桥",
+            "transliterationType": "zh-Latn",
+            "transliteration": "Ge Li Ni Ke Er Qiao"
+          },
+          {
+            "languageCode": "en",
+            "name": "Glienicke Bridge"
+          },
+          {
+            "languageCode": "es",
+            "name": "Puente Glienicke"
+          },
+          {
+            "languageCode": "de",
+            "name": "Glienicker Brücke"
+          },
+          {
+            "languageCode": "de",
+            "name": "Glienicke Bridge"
+          },
+          {
+            "languageCode": "de",
+            "name": "Glienicke Bridge"
+          }
+        ]
+      },
+      "id": "276u3361-5de242638daac732dea16ae4c5a4fd93"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09144085,
+          52.41348389
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "en",
+            "name": "Ahoi Yachting"
+          }
+        ]
+      },
+      "id": "276u3361-7053535364eee6dce242dad34b150d50"
+    },
+    {
+      "bbox": [
+        13.617440440000053,
+        52.380312349000064,
+        13.617707580000058,
+        52.380432840000076
+      ],
+      "id": 98530980,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.617574010226754,
+          52.38037259453238
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-f67ced44212a45f1943b0ce1f20f587d",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 170528145,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.617462099000079,
+              52.380312349000064
+            ],
+            [
+              13.617707580000058,
+              52.380332124000056
+            ],
+            [
+              13.617685922000078,
+              52.380432840000076
+            ],
+            [
+              13.617440440000053,
+              52.380413065000084
+            ],
+            [
+              13.617462099000079,
+              52.380312349000064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.614511632000076,
+        52.376633775000066,
+        13.614718153000068,
+        52.37675990600007
+      ],
+      "id": 98614398,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.614614919225852,
+          52.37669684414383
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-a589f78e6b3349af998685bae89e8599",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 168615341,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.614584840000077,
+              52.376633775000066
+            ],
+            [
+              13.614718153000068,
+              52.376678674000054
+            ],
+            [
+              13.61464509300009,
+              52.37675990600007
+            ],
+            [
+              13.614511632000076,
+              52.376715005000044
+            ],
+            [
+              13.614584840000077,
+              52.376633775000066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.61882300600007,
+        52.38099622700009,
+        13.619075472000077,
+        52.381141553000084
+      ],
+      "id": 98643034,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.618949230504136,
+          52.38106890597387
+        ],
+        "places": [
+          {
+            "placeId": "27681015-5654e98c60ecfaa590f73f13ae8aa02a",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169778538,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.618901774000049,
+              52.38099622700009
+            ],
+            [
+              13.619075472000077,
+              52.38105642900008
+            ],
+            [
+              13.618996708000054,
+              52.381141553000084
+            ],
+            [
+              13.61882300600007,
+              52.381081441000056
+            ],
+            [
+              13.618901774000049,
+              52.38099622700009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.619792833000076,
+        52.38077674000005,
+        13.620033045000069,
+        52.38092726000007
+      ],
+      "id": 98650513,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.619912938822372,
+          52.38085199996977
+        ],
+        "places": [
+          {
+            "placeId": "27632345-adfc9696caffd65a61aa1e6ac13c5341",
+            "confidenceScore": 3
+          },
+          {
+            "placeId": "27632345-bd763513e781b483a484f8825e6594d6",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169484739,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.619885533000057,
+              52.38077674000005
+            ],
+            [
+              13.620033045000069,
+              52.38082863200003
+            ],
+            [
+              13.61994034400004,
+              52.38092726000007
+            ],
+            [
+              13.619792833000076,
+              52.38087536800004
+            ],
+            [
+              13.619885533000057,
+              52.38077674000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.619148518000088,
+        52.38036416900006,
+        13.619279417000087,
+        52.38044786500006
+      ],
+      "id": 98658281,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.619213967854702,
+          52.3804060171775
+        ],
+        "places": [
+          {
+            "placeId": "2764e963-7126546c194dc9beb15b3d90abb17b83",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169484743,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.619264420000093,
+              52.38036416900006
+            ],
+            [
+              13.619279417000087,
+              52.380439150000086
+            ],
+            [
+              13.619163516000071,
+              52.38044786500006
+            ],
+            [
+              13.619148518000088,
+              52.380372885000035
+            ],
+            [
+              13.619264420000093,
+              52.38036416900006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.62247693000006,
+        52.38140459300007,
+        13.622735291000083,
+        52.38151701900005
+      ],
+      "id": 98719035,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.622613267364814,
+          52.38146317298165
+        ],
+        "places": [
+          {
+            "placeId": "2761r4ve-c53aa3ee420309164118d880aaa69171",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 170290244,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.62266668300009,
+              52.38151354200005
+            ],
+            [
+              13.622627428000046,
+              52.38149924600003
+            ],
+            [
+              13.622610154000084,
+              52.38151701900005
+            ],
+            [
+              13.62247693000006,
+              52.381468533000024
+            ],
+            [
+              13.622516850000068,
+              52.38142746000006
+            ],
+            [
+              13.622583988000086,
+              52.381451894000065
+            ],
+            [
+              13.622629962000076,
+              52.38140459300007
+            ],
+            [
+              13.622735291000083,
+              52.38144295300003
+            ],
+            [
+              13.62266668300009,
+              52.38151354200005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.607580535000068,
+        52.375568379000065,
+        13.607877429000043,
+        52.375722016000054
+      ],
+      "id": 99072321,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.607728982175027,
+          52.375645197336304
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-b77cb101867a91b22ec5dfcf2980651e",
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.607649717000072,
+              52.375568379000065
+            ],
+            [
+              13.607877429000043,
+              52.37564766500009
+            ],
+            [
+              13.607808247000035,
+              52.375722016000054
+            ],
+            [
+              13.607580535000068,
+              52.37564272900005
+            ],
+            [
+              13.607649717000072,
+              52.375568379000065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.61382985600005,
+        52.37643248400008,
+        13.614084707000075,
+        52.37659180200007
+      ],
+      "id": 99102626,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.613964463153202,
+          52.376505651631874
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-454983b1391a41a8813b233c6b7c418d",
+            "confidenceScore": 4
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 867341636,
+            "confidenceScore": 4
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.613852068000083,
+              52.376440596000066
+            ],
+            [
+              13.613904035000074,
+              52.37643248400008
+            ],
+            [
+              13.614084707000075,
+              52.37649439400007
+            ],
+            [
+              13.613995714000055,
+              52.37659180200007
+            ],
+            [
+              13.613899343000071,
+              52.376558843000055
+            ],
+            [
+              13.61394817300004,
+              52.37650547000004
+            ],
+            [
+              13.61382985600005,
+              52.37646497100007
+            ],
+            [
+              13.613852068000083,
+              52.376440596000066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.614214296000057,
+        52.377348317000035,
+        13.61441409400004,
+        52.377479307000044
+      ],
+      "id": 99399914,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.614314190297923,
+          52.37741381187982
+        ],
+        "places": [
+          {
+            "placeId": "2768lxx5-cec4eaa1ed3b08d331b1b7abd13f83e9",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 168337509,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.614309941000045,
+              52.377479307000044
+            ],
+            [
+              13.614214296000057,
+              52.37739025300005
+            ],
+            [
+              13.614318449000052,
+              52.377348317000035
+            ],
+            [
+              13.614343003000045,
+              52.37737117300008
+            ],
+            [
+              13.61439039600009,
+              52.37741533500008
+            ],
+            [
+              13.61441409400004,
+              52.377437371000035
+            ],
+            [
+              13.614309941000045,
+              52.377479307000044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.613546135000092,
+        52.37639012000005,
+        13.61394817300004,
+        52.37658143800007
+      ],
+      "id": 99456730,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.613748835303452,
+          52.37648513264598
+        ],
+        "places": [
+          {
+            "placeId": "276u33dh-85b1b189ca4558e81552ec25c115720e",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 198454851,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.61361139200005,
+              52.37639012000005
+            ],
+            [
+              13.61382985600005,
+              52.376464971000075
+            ],
+            [
+              13.61394817300004,
+              52.37650547000004
+            ],
+            [
+              13.613899343000071,
+              52.376558843000055
+            ],
+            [
+              13.613878656000056,
+              52.37658143800007
+            ],
+            [
+              13.613760341000043,
+              52.376540849000044
+            ],
+            [
+              13.61376459900009,
+              52.37653622400006
+            ],
+            [
+              13.613546135000092,
+              52.37646137300004
+            ],
+            [
+              13.61361139200005,
+              52.37639012000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.612632362000056,
+        52.37700836400006,
+        13.612734015000058,
+        52.37708026400002
+      ],
+      "id": 73803530406,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.61268319483555,
+          52.37704431572435
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-fff85b69e4c1c93dfe5fa38a685636f6",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 169733142,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.612734015000058,
+              52.37701800500009
+            ],
+            [
+              13.612714522000033,
+              52.37708026400002
+            ],
+            [
+              13.612632362000056,
+              52.37707062300005
+            ],
+            [
+              13.612651884000059,
+              52.37700836400006
+            ],
+            [
+              13.612734015000058,
+              52.37701800500009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.609473218024657,
+        52.37443337108243,
+        13.609753552266406,
+        52.37457263625809
+      ],
+      "id": 80055831166,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.609616309329924,
+          52.37449804456235
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-5fad00d9174054323421b06ef27198be",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 181708040,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.60960669783571,
+              52.37443337108243
+            ],
+            [
+              13.609753552266406,
+              52.37448483587912
+            ],
+            [
+              13.609671409013558,
+              52.37457263625809
+            ],
+            [
+              13.609473218024657,
+              52.37450318056744
+            ],
+            [
+              13.609534970532419,
+              52.37443717557737
+            ],
+            [
+              13.609586307277285,
+              52.374455167908515
+            ],
+            [
+              13.60960669783571,
+              52.37443337108243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.611508812432813,
+        52.3785334827803,
+        13.611667025142133,
+        52.378620135129324
+      ],
+      "id": 80125831244,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.611587918862426,
+          52.37857680896787
+        ],
+        "places": [
+          {
+            "placeId": "2768a4e4-f69790295845e4a35dcbd5d42cb60909",
+            "confidenceScore": 2
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 769570599,
+            "confidenceScore": 2
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.611667025142133,
+              52.37853482405151
+            ],
+            [
+              13.611665069984104,
+              52.378620135129324
+            ],
+            [
+              13.611508812432813,
+              52.37861879385554
+            ],
+            [
+              13.61151076789191,
+              52.3785334827803
+            ],
+            [
+              13.611667025142133,
+              52.37853482405151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.610780859834335,
+        52.3748469326517,
+        13.611066881742326,
+        52.375034574467
+      ],
+      "id": 80168346609,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.610923870864085,
+          52.37494075354536
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-c7b8060c536962cbb943bdbb650ea44b",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 168356521,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.610893773350103,
+              52.3748469326517
+            ],
+            [
+              13.611066881742326,
+              52.37490227196986
+            ],
+            [
+              13.610953968602733,
+              52.375034574467
+            ],
+            [
+              13.610780859834335,
+              52.37497923498473
+            ],
+            [
+              13.610893773350103,
+              52.3748469326517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.61968088504858,
+        52.37800023252496,
+        13.619971002091374,
+        52.37815205512936
+      ],
+      "id": 80245846535,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.61982594363329,
+          52.378076143805515
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-fc33ccf219ced8942c938dbca58a89e6",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 181707716,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.619750728050686,
+              52.37800023252496
+            ],
+            [
+              13.619971002091374,
+              52.37807696443388
+            ],
+            [
+              13.61990115934185,
+              52.37815205512936
+            ],
+            [
+              13.61968088504858,
+              52.37807532309127
+            ],
+            [
+              13.619750728050686,
+              52.37800023252496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.616399679439777,
+        52.37659519215014,
+        13.616489492197712,
+        52.376637024802925
+      ],
+      "id": 99530905436,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.616444506538773,
+          52.376615994480325
+        ],
+        "places": [
+          {
+            "placeId": "276u339v-f92e6466fedb4b6384f9ef4f08af2439",
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.616451839225393,
+              52.376605256860415
+            ],
+            [
+              13.616489492197712,
+              52.37661702638763
+            ],
+            [
+              13.616472794925675,
+              52.376637024802925
+            ],
+            [
+              13.616399679439777,
+              52.37661531857166
+            ],
+            [
+              13.616415425809539,
+              52.37659519215014
+            ],
+            [
+              13.616451839225393,
+              52.376605256860415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61435,
+          52.37745
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "5"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Rainweg"
+          }
+        ]
+      },
+      "id": 168337509
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61083,
+          52.37497
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "207"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Waldstraße"
+          }
+        ]
+      },
+      "id": 168356521
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61466,
+          52.37668
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "182"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Waldstraße"
+          }
+        ]
+      },
+      "id": 168615341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61989,
+          52.38084
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "11"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Erlengrund"
+          }
+        ]
+      },
+      "id": 169484739
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6192,
+          52.38041
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "15"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Erlengrund"
+          }
+        ]
+      },
+      "id": 169484743
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61269,
+          52.37705
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "1"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Fichtengrund"
+          }
+        ]
+      },
+      "id": 169733142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61899,
+          52.38108
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "5A"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Erlengrund"
+          }
+        ]
+      },
+      "id": 169778538
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6226,
+          52.38147
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "10"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Eichwalder Aue"
+          }
+        ]
+      },
+      "id": 170290244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61752,
+          52.38038
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "4A"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Fliederweg"
+          }
+        ]
+      },
+      "id": 170528145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61977,
+          52.37809
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "141"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Waldstraße"
+          }
+        ]
+      },
+      "id": 181707716
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60961,
+          52.37452
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "215"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Waldstraße"
+          }
+        ]
+      },
+      "id": 181708040
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61377,
+          52.37648
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "186"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Waldstraße"
+          }
+        ]
+      },
+      "id": 198454851
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61167,
+          52.3787
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "12A"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Fichtengrund"
+          }
+        ]
+      },
+      "id": 769570599
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61409,
+          52.37652
+        ]
+      },
+      "properties": {
+        "class": "PointAddress",
+        "houseNumbers": [
+          {
+            "languageCode": "GER",
+            "name": "26"
+          }
+        ],
+        "streetNames": [
+          {
+            "languageCode": "GER",
+            "name": "Rainweg"
+          }
+        ]
+      },
+      "id": 867341636
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6226,
+          52.38147
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Immobilien Service Wernicke"
+          },
+          {
+            "languageCode": "de",
+            "name": "Diane Wernicke"
+          },
+          {
+            "languageCode": "de",
+            "name": "Immobilien-Service Wernicke"
+          }
+        ]
+      },
+      "id": "2761r4ve-c53aa3ee420309164118d880aaa69171"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61989,
+          52.38084
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Bag Selbsthilfe"
+          }
+        ]
+      },
+      "id": "27632345-adfc9696caffd65a61aa1e6ac13c5341"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61989,
+          52.38084
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "K.I.S.E."
+          }
+        ]
+      },
+      "id": "27632345-bd763513e781b483a484f8825e6594d6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6192,
+          52.38041
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Förderverein Projekt Avalon"
+          }
+        ]
+      },
+      "id": "2764e963-7126546c194dc9beb15b3d90abb17b83"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61899,
+          52.38108
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Salon Papillon"
+          }
+        ]
+      },
+      "id": "27681015-5654e98c60ecfaa590f73f13ae8aa02a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61167,
+          52.3787
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Pyro-Team Berlin"
+          },
+          {
+            "languageCode": "de",
+            "name": "Pyro-Team Berlin - Feuerwerk, Sfx, Feuershow, Led Show"
+          }
+        ]
+      },
+      "id": "2768a4e4-f69790295845e4a35dcbd5d42cb60909"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61435,
+          52.37745
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Vogt Trockenbau"
+          }
+        ]
+      },
+      "id": "2768lxx5-cec4eaa1ed3b08d331b1b7abd13f83e9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61409,
+          52.37652
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Garten Neumann"
+          }
+        ]
+      },
+      "id": "276u339v-454983b1391a41a8813b233c6b7c418d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6096189,
+          52.37449388
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Dachklempnerei Dorn"
+          }
+        ]
+      },
+      "id": "276u339v-5fad00d9174054323421b06ef27198be"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61466,
+          52.37668
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Van Branch"
+          }
+        ]
+      },
+      "id": "276u339v-a589f78e6b3349af998685bae89e8599"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6077405993403,
+          52.3760559401444
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Sportplatz am Hirtenfließ"
+          }
+        ]
+      },
+      "id": "276u339v-b77cb101867a91b22ec5dfcf2980651e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61083,
+          52.37497
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Dachkonzept Ihle"
+          },
+          {
+            "languageCode": "de",
+            "name": "Dachkonzept-Ihle"
+          }
+        ]
+      },
+      "id": "276u339v-c7b8060c536962cbb943bdbb650ea44b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61752,
+          52.38038
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Haus- und Immobilienverwaltung Dipl.-Ing. Steffen Tietz"
+          },
+          {
+            "languageCode": "de",
+            "name": "Bpi Berlin Property Investments"
+          },
+          {
+            "languageCode": "de",
+            "name": "Bpi Berlin Property Investments"
+          },
+          {
+            "languageCode": "de",
+            "name": "Hausverwaltung Tietz"
+          }
+        ]
+      },
+      "id": "276u339v-f67ced44212a45f1943b0ce1f20f587d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61646,
+          52.37663
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Wilfried Schulze"
+          }
+        ]
+      },
+      "id": "276u339v-f92e6466fedb4b6384f9ef4f08af2439"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61977,
+          52.37809
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Gsm Haus- und Gartendienst"
+          },
+          {
+            "languageCode": "de",
+            "name": "Gsm Haus-und Gartendienst"
+          }
+        ]
+      },
+      "id": "276u339v-fc33ccf219ced8942c938dbca58a89e6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61269,
+          52.37705
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Fa. Ankert und Schuckar Holz und Bautenschutz"
+          }
+        ]
+      },
+      "id": "276u339v-fff85b69e4c1c93dfe5fa38a685636f6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61377,
+          52.37648
+        ]
+      },
+      "properties": {
+        "class": "Place",
+        "placeNames": [
+          {
+            "languageCode": "de",
+            "name": "Burri Schaltanlagen GmbH Kundenwerkstatt"
+          }
+        ]
+      },
+      "id": "276u33dh-85b1b189ca4558e81552ec25c115720e"
+    },
+    {
+      "bbox": [
+        13.153303639000058,
+        52.56285088800008,
+        13.153756526000052,
+        52.563096375000036
+      ],
+      "id": 98573192,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.153530108857192,
+          52.562973628457634
+        ],
+        "places": [
+          {
+            "placeId": "276jx7ps-1e1d7748e69f085b69388cca763c199e",
+            "confidenceScore": 1
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.153641764000042,
+              52.56285088800008
+            ],
+            [
+              13.153756526000052,
+              52.56299905600007
+            ],
+            [
+              13.153418548000047,
+              52.563096375000036
+            ],
+            [
+              13.153303639000058,
+              52.56294820400005
+            ],
+            [
+              13.153641764000042,
+              52.56285088800008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.18103699300008,
+        52.55864229700005,
+        13.18138269800005,
+        52.55876268600009
+      ],
+      "id": 98638965,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.181188214868284,
+          52.558709175674494
+        ],
+        "places": [
+          {
+            "placeId": "276u336g-7db4b68c25bfa9649cf7bd2fb49f652a",
+            "confidenceScore": 3
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 867342936,
+            "confidenceScore": 3
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.18138269800005,
+              52.558755579000035
+            ],
+            [
+              13.181043531000057,
+              52.55876268600009
+            ],
+            [
+              13.18103699300008,
+              52.55864614800004
+            ],
+            [
+              13.181225250000068,
+              52.55864229700005
+            ],
+            [
+              13.181228064000038,
+              52.558691972000084
+            ],
+            [
+              13.181378969000036,
+              52.55868880600008
+            ],
+            [
+              13.18138269800005,
+              52.558755579000035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "bbox": [
+        13.178628670000078,
+        52.561464687000075,
+        13.178784302000052,
+        52.56157950100003
+      ],
+      "id": 98667538,
+      "properties": {
+        "class": "BuildingFootprint",
+        "labelPoint": [
+          13.178706521380573,
+          52.561522084108134
+        ],
+        "places": [
+          {
+            "placeId": "276u3375-630ccd50864498b7794d21e095a04b99",
+            "confidenceScore": 5
+          }
+        ],
+        "pointAddresses": [
+          {
+            "pointAddressId": 167789012,
+            "confidenceScore": 5
+          }
+        ]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.178776805000041,
+              52.561464687000075
+            ],
+            [
+              13.178784302000052,
+              52.56157575400004
+            ],
+            [
+              13.178636314000075,
+              52.56157950100003
+            ],
+            [
+              13.178628670000078,
+              52.56146843100003
+            ],
+            [
+              13.178776805000041,
+              52.561464687000075
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
